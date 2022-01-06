@@ -7,6 +7,7 @@ Classification
 ==============
 
 The models subpackage contains definitions for the following model
+Test by lixiang
 architectures for image classification:
 
 -  `AlexNet`_
